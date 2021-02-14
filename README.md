@@ -6,12 +6,12 @@ This project is an attempt in this direction to build a novel smart glass which 
 <h2>:man_technologist:  Technologies and Hardware we are using</h2>
 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-0099E5?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-76B900?style=for-the-badge&logo=pycharm&logoColor=white"/>
-
+<!--
 <h2>:rocket:  Project Demo</h2>
-
+<
 >[A Google Colab Link for OpenCV and Pytesseract code](https://colab.research.google.com/drive/1CXqfqXWVL0yzkF7lYm5rmpzvF4H02M5t?usp=sharing) - Here you can try the code.  
 >[A Google Colab Link for NLP code](https://colab.research.google.com/drive/1nqkB5Lzaol2wcOWUquZqNkUPFWsuv76U#scrollTo=fbE2Bch2JgjB) - Here you can try the code.  
->[A Google Drive Link for trained dataset and other assets](https://drive.google.com/drive/folders/1vfaMlv54JAJAxx4sMCNPAgkUMvjgI9aN?usp=sharing) - Here you can see the trained modal.    
+>[A Google Drive Link for trained dataset and other assets](https://drive.google.com/drive/folders/1vfaMlv54JAJAxx4sMCNPAgkUMvjgI9aN?usp=sharing) - Here you can see the trained modal. -->   
 
 <h2>:scroll:  Project Illustrations</h2>
 
